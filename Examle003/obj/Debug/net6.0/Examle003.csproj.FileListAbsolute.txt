@@ -1,0 +1,15 @@
+D:\AVL_Alexander\C#_1\Examle003\bin\Debug\net6.0\Examle003.exe
+D:\AVL_Alexander\C#_1\Examle003\bin\Debug\net6.0\Examle003.deps.json
+D:\AVL_Alexander\C#_1\Examle003\bin\Debug\net6.0\Examle003.runtimeconfig.json
+D:\AVL_Alexander\C#_1\Examle003\bin\Debug\net6.0\Examle003.dll
+D:\AVL_Alexander\C#_1\Examle003\bin\Debug\net6.0\Examle003.pdb
+D:\AVL_Alexander\C#_1\Examle003\obj\Debug\net6.0\Examle003.csproj.AssemblyReference.cache
+D:\AVL_Alexander\C#_1\Examle003\obj\Debug\net6.0\Examle003.GeneratedMSBuildEditorConfig.editorconfig
+D:\AVL_Alexander\C#_1\Examle003\obj\Debug\net6.0\Examle003.AssemblyInfoInputs.cache
+D:\AVL_Alexander\C#_1\Examle003\obj\Debug\net6.0\Examle003.AssemblyInfo.cs
+D:\AVL_Alexander\C#_1\Examle003\obj\Debug\net6.0\Examle003.csproj.CoreCompileInputs.cache
+D:\AVL_Alexander\C#_1\Examle003\obj\Debug\net6.0\Examle003.dll
+D:\AVL_Alexander\C#_1\Examle003\obj\Debug\net6.0\refint\Examle003.dll
+D:\AVL_Alexander\C#_1\Examle003\obj\Debug\net6.0\Examle003.pdb
+D:\AVL_Alexander\C#_1\Examle003\obj\Debug\net6.0\Examle003.genruntimeconfig.cache
+D:\AVL_Alexander\C#_1\Examle003\obj\Debug\net6.0\ref\Examle003.dll
